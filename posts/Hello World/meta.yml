@@ -1,0 +1,9 @@
+meta:
+  - description: >
+    Some description that should be presented on Front Page,
+    it can be just copy pasted part from body or custom text that should tell user what to except in this article.
+  - categorie: Some Categorie
+  - tags:
+    - Awesome
+    - Great
+    - Tags
